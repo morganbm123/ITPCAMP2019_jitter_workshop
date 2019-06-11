@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 69.0, 122.0, 1013.0, 683.0 ],
+		"rect" : [ 180.0, 79.0, 1042.0, 701.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -38,6 +38,18 @@
 		"style" : "",
 		"subpatcher_template" : "",
 		"boxes" : [ 			{
+				"box" : 				{
+					"id" : "obj-91",
+					"linecount" : 6,
+					"maxclass" : "comment",
+					"numinlets" : 1,
+					"numoutlets" : 0,
+					"patching_rect" : [ 19.0, 1034.000001549720764, 299.333337783813477, 87.0 ],
+					"text" : "Patch created by Morgan Mueller for ITP Camp 2019 Jitter workshop\n\nMany resources in this patch were assisted by Matt Romein's Live Image Processing and Performance 2019 class. "
+				}
+
+			}
+, 			{
 				"box" : 				{
 					"fontface" : 1,
 					"fontsize" : 14.0,
