@@ -3,7 +3,7 @@
 ## Syllabus
 
 I will try to get through as much of this as possible but anything that I'm unable to get through I will patches with as much explanation as possible in them.
-All of the patches create today will also be 
+All of the patches create today will also be upload to this repo with more detail and explanation for each piece.
 
 ### Intro
 
