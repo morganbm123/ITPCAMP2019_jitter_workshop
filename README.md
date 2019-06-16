@@ -60,6 +60,7 @@ All of the patches create today will also be
 - jit.lumakey
 - jit.chromakey
 - jit.rota
+- jit.op
 - video feedback
 - jit.matrixset
 
